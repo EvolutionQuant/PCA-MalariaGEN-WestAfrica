@@ -1,4 +1,3 @@
-ox_code
 AA0040-C
 AA0041-C
 AA0042-C
