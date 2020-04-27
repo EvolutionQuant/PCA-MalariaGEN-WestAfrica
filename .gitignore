@@ -131,3 +131,5 @@ dmypy.json
 # VCF files
 *.vcf
 *.vcf.gz
+
+datasets/MalariaGEN/phase-2-ar1/samples/archived/
